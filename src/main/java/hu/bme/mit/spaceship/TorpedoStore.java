@@ -56,3 +56,5 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+
+// Changed by Péter Nácsa 04/05/18
